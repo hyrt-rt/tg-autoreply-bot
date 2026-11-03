@@ -1,0 +1,10 @@
+# 本地 secrets，绝不提交
+.dev.vars
+
+# wrangler 构建缓存
+.wrangler/
+
+node_modules/
+
+# Freebuff 项目标记
+.freebuff/
